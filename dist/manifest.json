@@ -1,7 +1,7 @@
 {
   "id": "emet-spain-addon",
-  "version": "0.0.1",
-  "name": "Canales España v0.0.1",
+  "version": "0.0.2",
+  "name": "Canales España v0.0.2",
   "description": "Addon con canales de TV por AceStream/HTTP",
   "resources": ["catalog", "meta", "stream"],
   "types": ["tv"],
