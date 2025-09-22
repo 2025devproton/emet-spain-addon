@@ -1,0 +1,18 @@
+{
+  "metas": [
+    {
+      "id": "dazn-laliga-1",
+      "type": "tv",
+      "name": "DAZN LA LIGA 1 FHD --> NEW ERA VI",
+      "poster": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png",
+      "description": "Canal DAZN La Liga en directo"
+    },
+    {
+      "id": "eurosport-2",
+      "type": "tv",
+      "name": "EUROSPORT 2",
+      "poster": "https://i.ibb.co/M6h4Qyd/euro2.png",
+      "description": "Eurosport 2 con múltiples opciones de stream"
+    }
+  ]
+}

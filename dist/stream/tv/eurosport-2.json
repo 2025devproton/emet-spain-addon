@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "FHD 1ecc --> NEW ERA",
+      "url": "http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc"
+    },
+    {
+      "title": "FHD 7031 --> NEW ERA",
+      "url": "http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031"
+    },
+    {
+      "title": "FHD f8bf --> NEW ERA VI",
+      "url": "http://127.0.0.1:6878/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf"
+    },
+    {
+      "title": "FHD 1551 --> ELCANO",
+      "url": "http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551"
+    },
+    {
+      "title": "SD a53f --> ELCANO",
+      "url": "http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f"
+    }
+  ]
+}

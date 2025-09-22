@@ -1,0 +1,8 @@
+{
+  "id": "dazn-laliga-1",
+  "type": "tv",
+  "name": "DAZN LA LIGA 1",
+  "poster": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png",
+  "description": "Canal oficial de DAZN La Liga con streams en directo",
+  "genreIds": [1, 2]
+}

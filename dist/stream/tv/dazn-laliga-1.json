@@ -1,0 +1,44 @@
+{
+  "streams": [
+    {
+      "title": "AceStream (FHD)",
+      "url": "acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1"
+    },
+    {
+      "title": "AceStream External (FHD)",
+      "externalUrl": "acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1"
+    },
+    {
+      "title": "FHD 21c1 --> NEW ERA",
+      "url": "http://127.0.0.1:6878/ace/getstream?id=d48b299bbcd811cfd14159224bf5012a305021c1"
+    },
+    {
+      "title": "FHD 74ae --> NEW ERA",
+      "url": "http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae"
+    },
+    {
+      "title": "FHD f4b1 --> NEW ERA VI",
+      "url": "http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1"
+    },
+    {
+      "title": "FHD 2884 --> NEW ERA VI",
+      "url": "http://127.0.0.1:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884"
+    },
+    {
+      "title": "FHD 0b05 --> ELCANO",
+      "url": "http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05"
+    },
+    {
+      "title": "FHD c618 --> ELCANO",
+      "url": "http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618"
+    },
+    {
+      "title": "SD ed1f --> ELCANO",
+      "url": "http://127.0.0.1:6878/ace/getstream?id=5f94b97cb88f84a2bfbfd07e8d732f67ff50ed1f"
+    },
+    {
+      "title": "EUROSPORT 2 SD a53f --> ELCANO",
+      "url": "http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f"
+    }
+  ]
+}

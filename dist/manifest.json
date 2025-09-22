@@ -1,0 +1,34 @@
+{
+  "id": "canales-stream-addon",
+  "version": "1.0.4",
+  "name": "Canales Stream v4",
+  "description": "Addon genérico con canales de TV por AceStream/HTTP",
+  "resources": ["catalog", "meta", "stream"],
+  "types": ["tv"],
+  "catalogs": [
+    {
+      "id": "canales-tv",
+      "type": "tv",
+      "name": "Canales TV"
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "localizedName": {
+        "en": "Sports",
+        "es": "Deportes"
+      },
+      "name": "Deportes"
+    },
+    {
+      "id": 2,
+      "localizedName": {
+        "en": "Football",
+        "es": "Fútbol"
+      },
+      "name": "Fútbol"
+    }
+  ],
+  "logo": "https://magenta-managing-frog-178.mypinata.cloud/ipfs/bafkreiaaydsew4jifl6ayk4ottnghjcnp6ic47sjfrzgg4w2wysrgqyfxm"
+}
