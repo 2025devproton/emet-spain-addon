@@ -2,7 +2,9 @@
   "id": "dazn-laliga-1",
   "type": "tv",
   "name": "DAZN LA LIGA 1",
-  "poster": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png",
+  "poster": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png",
+  "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png",
+  "background": "https://www.adslzone.net/app/uploads-adslzone.net/2023/10/dazn-laliga.jpg",
   "description": "Canal oficial de DAZN La Liga con streams en directo",
   "genreIds": [1, 2]
 }

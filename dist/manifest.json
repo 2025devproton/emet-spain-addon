@@ -1,8 +1,8 @@
 {
-  "id": "canales-stream-addon",
-  "version": "1.0.4",
-  "name": "Canales Stream v4",
-  "description": "Addon genérico con canales de TV por AceStream/HTTP",
+  "id": "emet-spain-addon",
+  "version": "0.0.1",
+  "name": "Canales España v0.0.1",
+  "description": "Addon con canales de TV por AceStream/HTTP",
   "resources": ["catalog", "meta", "stream"],
   "types": ["tv"],
   "catalogs": [

@@ -2,7 +2,9 @@
   "id": "eurosport-2",
   "type": "tv",
   "name": "EUROSPORT 2",
-  "poster": "https://i.ibb.co/M6h4Qyd/euro2.png",
+  "poster": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png",
+  "logo": "https://i.ibb.co/M6h4Qyd/euro2.png",
+  "background": "https://dic.academic.ru/pictures/wiki/files/69/Eurosport2.png",
   "description": "Canal Eurosport 2 con varios streams disponibles",
   "genreIds": [1]
 }
